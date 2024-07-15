@@ -8,3 +8,7 @@ Some useful features incorporated include:
 - Setting custom fonts for the title and footnotes
 - Colour-coding countries by continent
 - Using size to display population
+
+The final plot:
+
+![mmr vs fle (2020)](plot.png)
